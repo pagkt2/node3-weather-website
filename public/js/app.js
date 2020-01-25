@@ -4,7 +4,7 @@ const messageOne = document.querySelector('#message-1')
 const messageTwo = document.querySelector('#message-2')
 
 // messageOne.textContent = 'From JavaScript'
-
+// new comment to check difference in personal laptop w/ work laptop
 
 
 weatherform.addEventListener('submit', (e) => {
